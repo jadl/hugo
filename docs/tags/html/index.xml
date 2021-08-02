@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
-        <link>https://jadl.github.io/hugo/</link>
-        <description>My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
-            <atom:link href="https://jadl.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>HTML - Tag - My New Hugo Site</title>
+        <link>https://jadl.github.io/hugo/tags/html/</link>
+        <description>HTML - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://jadl.github.io/hugo/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
     <link>https://jadl.github.io/hugo/posts/my-firts-post/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
